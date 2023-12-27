@@ -8,9 +8,9 @@ function App() {
       <div>
         <Slider />
       </div>
-      {/* <div className="py-10">
+      <div className="py-10 ">
         <SliderTwo />
-      </div> */}
+      </div>
     </>
   );
 }

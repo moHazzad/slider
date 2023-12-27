@@ -1,7 +1,7 @@
 import React from "react";
 import { FaHeart } from "react-icons/fa6";
 import { FaRotate } from "react-icons/fa6";
-import { FaMagnifyingGlass ,FaStar} from "react-icons/fa6";
+import { FaMagnifyingGlass, FaStar } from "react-icons/fa6";
 
 const ProductsCard = ({ product }) => {
   console.log(product);
@@ -43,12 +43,21 @@ const ProductsCard = ({ product }) => {
       </div>
       <div className="md:w-[55%] flex flex-col  gap-1 py-2 md:pt-5 ">
         <div className="flex gap-1 text-xs text-gray-400">
-
-        <p><FaStar /></p>
-        <p><FaStar /></p>
-        <p><FaStar /></p>
-        <p><FaStar /></p>
-        <p><FaStar /></p>
+          <p>
+            <FaStar />
+          </p>
+          <p>
+            <FaStar />
+          </p>
+          <p>
+            <FaStar />
+          </p>
+          <p>
+            <FaStar />
+          </p>
+          <p>
+            <FaStar />
+          </p>
         </div>
         <p className="text-[10px] md:text-xl font-semibold">{title}</p>
         <div className="flex items-center gap-2 tex-x">
@@ -63,8 +72,8 @@ const ProductsCard = ({ product }) => {
         </div>
         <p className="text-xs font-semibold text-gray-500">{details}</p>
         <button className="hidden group-hover:block bg-gray-400 text-white py-1 md:py-2 px-3 rounded-md  md:text-md md:font-semibold mt-2 md:w-1/2">
-      Add to Cart
-    </button>
+          Add to Cart
+        </button>
       </div>
     </div>
   );
