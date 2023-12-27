@@ -1,15 +1,15 @@
 import { useState, useEffect } from "react";
 import { FaAngleRight, FaAngleLeft } from "react-icons/fa6";
-import SliderTowProduct from "./SliderTowProduct"; // Your ProductCard component
+import SliderTowProduct from "./SliderTowProduct"; 
 import keyBoardImage from "../../assets/keybaod.jpg";
 
 const SliderTwo = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [allProducts, setAllProducts] = useState([]);
-  const pageSize = 3; // Number of products per slide
+  const pageSize = 3; 
 
   useEffect(() => {
-    // Replace with the actual path to your products JSON
+
     const fetchProducts = async () => {
       try {
         const response = await fetch("/products.json");

@@ -1,5 +1,5 @@
 import  { useState, useEffect } from 'react';
-import ProductsCard from './ProductsCard'; // Your ProductCard component
+import ProductsCard from './ProductsCard'; 
 import { FaAngleRight,FaAngleLeft} from "react-icons/fa6";
 
 const Slider = () => {

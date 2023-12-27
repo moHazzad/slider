@@ -37,9 +37,7 @@ const ProductsCard = ({ product }) => {
             </div>
           </div>
         </div>
-        {/* <button className="hidden group-hover:flex absolute bottom-2 left-2 bg-green-500 text-white py-1 px-3 rounded-md text-xs">
-      Add
-  </button> */}
+       
       </div>
       <div className="md:w-[55%] flex flex-col  gap-1 py-2 md:pt-5 ">
         <div className="flex gap-1 text-xs text-gray-400">
