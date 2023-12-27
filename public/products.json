@@ -1,0 +1,108 @@
+{
+    "products": [
+      {
+        "title": "I-Pad 2017-silver",
+        "rating": 4.5,
+        "current_price": 799.99,
+        "previous_price": 899.99,
+        "discount_percentage": 11,
+        "image_details": {
+          "url": "../src/assets/slider6.jpg",
+          "alt_text": "I-pad Pro Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+
+      },
+      {
+        "title": "Min-Laptop Pro",
+        "rating": 4.2,
+        "current_price": 1299.99,
+        "previous_price": 1499.99,
+        "discount_percentage": 13,
+        "image_details": {
+          "url": "../src/assets/slider1.jpg",
+          "alt_text": "min-Laptop Pro Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+
+      },
+      {
+        "title": "Wireless Headphone",
+        "rating": 4.8,
+        "current_price": 79.99,
+        "previous_price": 99.99,
+        "discount_percentage": 20,
+        "image_details": {
+          "url": "../src/assets/sldier3.jpg",
+          "alt_text": "Wireless Earbuds Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+
+      },
+      {
+        "title": "8K DSLR CANON",
+        "rating": 4.7,
+        "current_price": 899.99,
+        "previous_price": 1099.99,
+        "discount_percentage": 18,
+        "image_details": {
+          "url": "../src/assets/slider2.jpg",
+          "alt_text": "8K Smart DSLR Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+
+      },
+      {
+        "title": "4K Stylish Camera-Pink",
+        "rating": 4.6,
+        "current_price": 349.99,
+        "previous_price": 399.99,
+        "discount_percentage": 13,
+        "image_details": {
+          "url": "../src/assets/slider4.jpg",
+          "alt_text": "4k Camera Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+
+      },
+      {
+        "title": "Digital Camera",
+        "rating": 4.4,
+        "current_price": 499.99,
+        "previous_price": 599.99,
+        "discount_percentage": 17,
+        "image_details": {
+          "url": "../src/assets/slider8.jpg",
+          "alt_text": "Digital Camera Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+
+      },
+      {
+        "title": "Smart Mouse Elite",
+        "rating": 4.9,
+        "current_price": 199.99,
+        "previous_price": 249.99,
+        "discount_percentage": 20,
+        "image_details": {
+          "url": "../src/assets/slider5.jpg",
+          "alt_text": "Smart Mouse Elite Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+
+      },
+      {
+        "title": "Printable Camera ",
+        "rating": 4.3,
+        "current_price": 59.99,
+        "previous_price": 79.99,
+        "discount_percentage": 25,
+        "image_details": {
+          "url": "../src/assets/slider7.jpg",
+          "alt_text": "printable Image"
+        },
+        "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
+      }
+    ]
+  }
+  
