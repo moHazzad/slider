@@ -7,7 +7,7 @@
         "previous_price": 899.99,
         "discount_percentage": 11,
         "image_details": {
-          "url": "../src/assets/slider6.jpg",
+          "url": "./slider6.jpg",
           "alt_text": "I-pad Pro Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
@@ -20,7 +20,7 @@
         "previous_price": 1499.99,
         "discount_percentage": 13,
         "image_details": {
-          "url": "../src/assets/slider1.jpg",
+          "url": "./slider1.jpg",
           "alt_text": "min-Laptop Pro Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
@@ -33,7 +33,7 @@
         "previous_price": 99.99,
         "discount_percentage": 20,
         "image_details": {
-          "url": "../src/assets/sldier3.jpg",
+          "url": "./sldier3.jpg",
           "alt_text": "Wireless Earbuds Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
@@ -46,7 +46,7 @@
         "previous_price": 1099.99,
         "discount_percentage": 18,
         "image_details": {
-          "url": "../src/assets/slider2.jpg",
+          "url": "./slider2.jpg",
           "alt_text": "8K Smart DSLR Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
@@ -59,7 +59,7 @@
         "previous_price": 399.99,
         "discount_percentage": 13,
         "image_details": {
-          "url": "../src/assets/slider4.jpg",
+          "url": "./slider4.jpg",
           "alt_text": "4k Camera Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
@@ -72,7 +72,7 @@
         "previous_price": 599.99,
         "discount_percentage": 17,
         "image_details": {
-          "url": "../src/assets/slider8.jpg",
+          "url": "./slider8.jpg",
           "alt_text": "Digital Camera Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
@@ -85,7 +85,7 @@
         "previous_price": 249.99,
         "discount_percentage": 20,
         "image_details": {
-          "url": "../src/assets/slider5.jpg",
+          "url": "./slider5.jpg",
           "alt_text": "Smart Mouse Elite Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
@@ -98,7 +98,7 @@
         "previous_price": 79.99,
         "discount_percentage": 25,
         "image_details": {
-          "url": "../src/assets/slider7.jpg",
+          "url": "./slider7.jpg",
           "alt_text": "printable Image"
         },
         "details": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text"
